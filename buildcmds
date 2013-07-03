@@ -1,0 +1,2 @@
+R CMD check /home/user/workspace/Triads
+R CMD build /home/user/workspace/Triads
